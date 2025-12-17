@@ -1,0 +1,1 @@
+PawPal is a cross-platform system for managing pet hotel bookings, grooming services, billing, product purchases, and inventory for pet care facilities under PEPPA, with secure access and role-based user management.
